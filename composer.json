@@ -1,5 +1,5 @@
 {
-  "name": "shopigo/magento2-extension-swiss-post",
+  "name": "sapientpro/magento2-extension-swiss-post",
   "description": "Magento 2 Swiss Post extension by Shopigo",
   "require": {
     "php": "^7.4 || ~8.1.0",
@@ -8,7 +8,7 @@
     "magento/framework": "*"
   },
   "type": "magento2-module",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
